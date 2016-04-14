@@ -1,0 +1,2 @@
+# waxpoetic
+waxpoetic woocommerce project
